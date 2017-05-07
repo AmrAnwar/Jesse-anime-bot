@@ -1,0 +1,10 @@
+c:\users\astral\documents\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe.config
+c:\users\astral\documents\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe
+c:\users\astral\documents\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.pdb
+c:\users\astral\documents\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Properties.Resources.resources
+c:\users\astral\documents\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.csproj.GenerateResource.Cache
+c:\users\astral\documents\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.exe
+c:\users\astral\documents\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.pdb
+c:\users\astral\documents\visual studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.csprojResolveAssemblyReference.cache
+C:\Users\ASTRAL\Documents\Visual Studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Form2.resources
+C:\Users\ASTRAL\Documents\Visual Studio 2015\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.jesse.resources
