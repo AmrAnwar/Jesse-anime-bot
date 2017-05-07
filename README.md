@@ -6,11 +6,15 @@ Jesse is PC simple Bot Can help user in searching , os operations and Enjoy leis
 the bot can speak and listening by simple way
 ```
 [video for the app](https://www.facebook.com/amranwar945/videos/vb.100001941863724/1500109206730460/?type=2&theater)
+```
 **what she can do ?**
+```
 * web scraping
 * os operations 
 * open web pages
+```
 **what will I add soon ?**
+```
 * python AI code for speaking
 * simple games to play with the Bot
 
